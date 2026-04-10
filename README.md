@@ -1,2 +1,2 @@
 # CoinClever-Smart-Expense-Tracker
-A minor project for expense and budget tracker 
+CoinClever is a expense tracker that collect, store, and visually interpret personal expense data to help users understand their spending patterns, track budget utilization, and make informed financial decisions. Each transaction is recorded with description, amount, category, and date. The application analyses this data to generate category-wise breakdowns, monthly spending trends, and budget consumption metrics in real time
